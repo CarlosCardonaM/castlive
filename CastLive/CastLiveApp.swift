@@ -11,7 +11,7 @@ import SwiftUI
 struct CastLiveApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OverlayContainerView()
         }
     }
 }
